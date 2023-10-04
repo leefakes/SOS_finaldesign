@@ -1,0 +1,30 @@
+C:/Users/Big Red/Documents/Uni/Semester 2/IFN563 Object Oriented Design/Assessment 2/SOS_finaldesign/bin/Debug/net6.0/SOS_finaldesign.exe
+C:/Users/Big Red/Documents/Uni/Semester 2/IFN563 Object Oriented Design/Assessment 2/SOS_finaldesign/bin/Debug/net6.0/SOS_finaldesign.deps.json
+C:/Users/Big Red/Documents/Uni/Semester 2/IFN563 Object Oriented Design/Assessment 2/SOS_finaldesign/bin/Debug/net6.0/SOS_finaldesign.runtimeconfig.json
+C:/Users/Big Red/Documents/Uni/Semester 2/IFN563 Object Oriented Design/Assessment 2/SOS_finaldesign/bin/Debug/net6.0/SOS_finaldesign.dll
+C:/Users/Big Red/Documents/Uni/Semester 2/IFN563 Object Oriented Design/Assessment 2/SOS_finaldesign/bin/Debug/net6.0/SOS_finaldesign.pdb
+C:/Users/Big Red/Documents/Uni/Semester 2/IFN563 Object Oriented Design/Assessment 2/SOS_finaldesign/obj/Debug/net6.0/SOS_finaldesign.csproj.AssemblyReference.cache
+C:/Users/Big Red/Documents/Uni/Semester 2/IFN563 Object Oriented Design/Assessment 2/SOS_finaldesign/obj/Debug/net6.0/SOS_finaldesign.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Big Red/Documents/Uni/Semester 2/IFN563 Object Oriented Design/Assessment 2/SOS_finaldesign/obj/Debug/net6.0/SOS_finaldesign.AssemblyInfoInputs.cache
+C:/Users/Big Red/Documents/Uni/Semester 2/IFN563 Object Oriented Design/Assessment 2/SOS_finaldesign/obj/Debug/net6.0/SOS_finaldesign.AssemblyInfo.cs
+C:/Users/Big Red/Documents/Uni/Semester 2/IFN563 Object Oriented Design/Assessment 2/SOS_finaldesign/obj/Debug/net6.0/SOS_finaldesign.csproj.CoreCompileInputs.cache
+C:/Users/Big Red/Documents/Uni/Semester 2/IFN563 Object Oriented Design/Assessment 2/SOS_finaldesign/obj/Debug/net6.0/SOS_finaldesign.dll
+C:/Users/Big Red/Documents/Uni/Semester 2/IFN563 Object Oriented Design/Assessment 2/SOS_finaldesign/obj/Debug/net6.0/refint/SOS_finaldesign.dll
+C:/Users/Big Red/Documents/Uni/Semester 2/IFN563 Object Oriented Design/Assessment 2/SOS_finaldesign/obj/Debug/net6.0/SOS_finaldesign.pdb
+C:/Users/Big Red/Documents/Uni/Semester 2/IFN563 Object Oriented Design/Assessment 2/SOS_finaldesign/obj/Debug/net6.0/SOS_finaldesign.genruntimeconfig.cache
+C:/Users/Big Red/Documents/Uni/Semester 2/IFN563 Object Oriented Design/Assessment 2/SOS_finaldesign/obj/Debug/net6.0/ref/SOS_finaldesign.dll
+/home/lee/Projects/Assessment 2/SOS_finaldesign/bin/Debug/net6.0/SOS_finaldesign
+/home/lee/Projects/Assessment 2/SOS_finaldesign/bin/Debug/net6.0/SOS_finaldesign.deps.json
+/home/lee/Projects/Assessment 2/SOS_finaldesign/bin/Debug/net6.0/SOS_finaldesign.runtimeconfig.json
+/home/lee/Projects/Assessment 2/SOS_finaldesign/bin/Debug/net6.0/SOS_finaldesign.dll
+/home/lee/Projects/Assessment 2/SOS_finaldesign/bin/Debug/net6.0/SOS_finaldesign.pdb
+/home/lee/Projects/Assessment 2/SOS_finaldesign/obj/Debug/net6.0/SOS_finaldesign.csproj.AssemblyReference.cache
+/home/lee/Projects/Assessment 2/SOS_finaldesign/obj/Debug/net6.0/SOS_finaldesign.GeneratedMSBuildEditorConfig.editorconfig
+/home/lee/Projects/Assessment 2/SOS_finaldesign/obj/Debug/net6.0/SOS_finaldesign.AssemblyInfoInputs.cache
+/home/lee/Projects/Assessment 2/SOS_finaldesign/obj/Debug/net6.0/SOS_finaldesign.AssemblyInfo.cs
+/home/lee/Projects/Assessment 2/SOS_finaldesign/obj/Debug/net6.0/SOS_finaldesign.csproj.CoreCompileInputs.cache
+/home/lee/Projects/Assessment 2/SOS_finaldesign/obj/Debug/net6.0/SOS_finaldesign.dll
+/home/lee/Projects/Assessment 2/SOS_finaldesign/obj/Debug/net6.0/refint/SOS_finaldesign.dll
+/home/lee/Projects/Assessment 2/SOS_finaldesign/obj/Debug/net6.0/SOS_finaldesign.pdb
+/home/lee/Projects/Assessment 2/SOS_finaldesign/obj/Debug/net6.0/SOS_finaldesign.genruntimeconfig.cache
+/home/lee/Projects/Assessment 2/SOS_finaldesign/obj/Debug/net6.0/ref/SOS_finaldesign.dll

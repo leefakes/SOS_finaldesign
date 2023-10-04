@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0YlihOQXcnfMZK1UEaRK4767zfn/7Gu8sajBqgITF76nMy0930jIy6jhs7WzGJVgpibB4Tigwj1tzL7ITu0QQA==",
+  "success": true,
+  "projectFilePath": "/home/lee/Projects/Assessment 2/SOS_finaldesign/SOS_finaldesign.csproj",
+  "expectedPackageFiles": [
+    "/home/lee/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.22/microsoft.netcore.app.host.linux-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

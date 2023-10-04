@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/lee/Projects/Assessment 2/SOS_finaldesign/SOS_finaldesign.csproj": {}
+  },
+  "projects": {
+    "/home/lee/Projects/Assessment 2/SOS_finaldesign/SOS_finaldesign.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/lee/Projects/Assessment 2/SOS_finaldesign/SOS_finaldesign.csproj",
+        "projectName": "SOS_finaldesign",
+        "projectPath": "/home/lee/Projects/Assessment 2/SOS_finaldesign/SOS_finaldesign.csproj",
+        "packagesPath": "/home/lee/.nuget/packages/",
+        "outputPath": "/home/lee/Projects/Assessment 2/SOS_finaldesign/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/lee/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[6.0.22, 6.0.22]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
